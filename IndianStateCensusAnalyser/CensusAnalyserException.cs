@@ -4,7 +4,7 @@ using System.Text;
 
 namespace IndianStateCensusAnalyser
 {
-    class CensusAnalyserException : Exception
+    public class CensusAnalyserException : Exception
     {
         public enum ExceptionType
         {
