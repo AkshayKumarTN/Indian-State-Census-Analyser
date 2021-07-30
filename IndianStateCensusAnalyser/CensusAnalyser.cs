@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using CensusAnalyserLive.DTO;
+using IndianStateCensusAnalyser.DTO;
 
 namespace IndianStateCensusAnalyser
 {
@@ -19,4 +19,3 @@ namespace IndianStateCensusAnalyser
         }
     }
 }
-© 2021 GitHub, Inc.
